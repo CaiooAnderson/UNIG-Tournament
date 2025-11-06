@@ -19,7 +19,7 @@ Este projeto foi criado para praticar e reforçar conhecimentos essenciais exigi
 - Consumir e integrar APIs RESTful
 - Utilizar controle de versão com Git
 - Aplicar conceitos de acessibilidade
-- Aprender automação e empacotamento com Vite
+- Aplicar automação e empacotamento com Vite
 
 ## Como rodar o projeto
 
@@ -53,16 +53,14 @@ Este projeto foi criado para praticar e reforçar conhecimentos essenciais exigi
 
 - `npm run dev` — inicia o servidor de desenvolvimento
 - `npm run build` — gera a versão de produção
-- `git add . && git commit -m "mensagem"` — versionamento
+- `git init, git branch, git status, git add, git commit, git push, git checkout, git pull` — versionamento
 
 ## Aprendizados e Práticas
 
 - Componentização com React
-- Consumo de APIs com fetch/axios
-- Estilização com CSS moderno (Flexbox, Grid)
-- Responsividade (media queries)
-- Acessibilidade (uso de aria, alt, semântica)
+- Consumo de APIs com fetch
+- Estilização com TailwindCSS
+- Responsividade
+- Acessibilidade em todos os dispositivos
 
 ---
-
-Sinta-se à vontade para explorar, modificar e praticar!
