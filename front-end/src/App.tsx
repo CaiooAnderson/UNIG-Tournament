@@ -1,15 +1,12 @@
-import { Button } from "@mui/material";
+import AppRoutes from "./routes";
 import "./index.css";
+// import { TemperatureProvider } from "./hooks/useTemperature";
 
 function App() {
   return (
-    <>
-      <div className="h-dvh flex justify-center items-center">
-        <Button variant="contained" className="text-3xl font-bold">
-          Botão de teste
-        </Button>
-      </div>
-    </>
+    // <TemperatureProvider>
+      <AppRoutes />
+    // </TemperatureProvider>
   );
 }
 
